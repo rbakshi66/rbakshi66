@@ -1,16 +1,46 @@
-## Hi there 👋
+# Website
+# 1. This is my portfolio website⚡️ 
 
-<!--
-**rbakshi66/rbakshi66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Website Preview
+<p align="center"> 
+  <kbd>
+   <a href="https://rbakshi66.github.io" target="_blank"><img src="page.png">
+  </a>
+  </kbd>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:star: Star me on GitHub — it helps!
+
+## Features 📋
+⚡️ Fully Responsive\
+⚡️ Valid HTML5 & CSS3\
+⚡️ Easy to modify
+
+To view a live example, **[click here](https://rbakshi66.github.io/website/)**
+<br>
+To view code, **[click here](https://github.com/rbakshi66/website)**
+
+## Sections 📚
+✔️ About \
+✔️ Skills \
+✔️ Work\
+✔️ Contact
+
+## Contributing 💡
+#### Step 1
+
+- **Option 1**
+    - 🍴 Fork this repo!
+
+- **Option 2**
+    - 👯 Clone this repo to your local machine.
+
+
+#### Step 2
+
+- **Build your code** 🔨🔨🔨
+
+#### Step 3
+
+- 🔃 Create a new pull request.
