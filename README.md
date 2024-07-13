@@ -1,3 +1,5 @@
+![logo](https://github.com/rbakshi66/rbakshi66/helllo.jpg)
+
 # 💫 About Me:
 Graphic/ Thumbnail design<br>
 Freelance design projects<br>
