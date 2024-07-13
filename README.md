@@ -1,10 +1,10 @@
 # 💫 About Me:
-Graphic/ Thumbanil design
-Freelance design projects
-Fresher Design internship
-Ui/ux design 
-Creative tie
-Designing my journey from the kitchen to the chimney
+Graphic/ Thumbanil design<br>
+Freelance design projects<br>
+Fresher Design internship<br>
+Ui/ux design <br>
+Creative tie<br>
+Designing my journey from the kitchen to the chimney.
 
 
 ## 🌐 Socials:
