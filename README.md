@@ -6,7 +6,7 @@ Ui/ux design <br>
 Creative tie<br>
 Designing my journey from the kitchen to the chimney.
 
-### my Website Preview
+### My Website Preview
 To view a live example, **[click here](https://rbakshi66.github.io/website/)**
 <br>
 To view code, **[click here](https://github.com/rbakshi66/website)**
