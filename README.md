@@ -1,4 +1,4 @@
-![logo](https://github.com/rbakshi66/rbakshi66/helllo.jpg)
+![logo](https://github.com/rbakshi66/website/helllo.png)
 
 # 💫 About Me:
 Graphic/ Thumbnail design<br>
