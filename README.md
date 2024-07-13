@@ -1,5 +1,5 @@
 # 💫 About Me:
-Graphic/ Thumbanil design<br>
+Graphic/ Thumbnail design<br>
 Freelance design projects<br>
 Fresher Design internship<br>
 Ui/ux design <br>
