@@ -1,5 +1,10 @@
 ![logo](https://github.com/rbakshi66/website/blob/main/hello.png)
 
+
+---
+[![](https://visitcount.itsvg.in/api?id=rbakshi66&icon=5&color=0)](https://visitcount.itsvg.in)
+
+
 # 💫 About Me:
 Graphic/ Thumbnail design<br>
 Freelance design projects<br>
@@ -29,8 +34,5 @@ To view code, **[click here](https://github.com/rbakshi66/website)**
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=rbakshi66&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
