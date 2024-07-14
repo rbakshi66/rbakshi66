@@ -6,14 +6,43 @@
 
 
 # 💫 About Me:
-Graphic/ Thumbnail design<br>
+Hi,👋 My Name is Rishaj Bakshi.<br>
+Graphic/Thumbnail design<br>
 Freelance design projects<br>
 Fresher Design internship<br>
 Ui/ux design <br>
 Creative tie<br>
 Designing my journey from the kitchen to the chimney.
 
-### My Website Preview
+# 🤝 My Website Preview
+<p align="center"> 
+  <kbd>
+   <a href="https://rbakshi66.github.io" target="_blank"><img src="https://github.com/rbakshi66/website/blob/main/page.png">
+  </a>
+  </kbd>
+</p>
+<p><h3>I'm thrilled to share with you a brand new responsive website created by my talented friend Abhay Kumar. This website is designed to showcase my projects, skills, and experiences in a more engaging and visually appealing way.</h4></p>
+<p><h4>Key Features:-<br><br>
+Responsive Design<br>
+The website is fully responsive, ensuring that it looks great on any device, whether you're browsing on a desktop, tablet, or smartphone. This adaptability means you can explore my work comfortably no matter where you are.<br>
+
+Clean and Modern Layout<br>
+With a clean and modern layout, the website highlights the most important aspects of my work. My projects are showcased with detailed descriptions, images, and links to the repositories, making it easier for you to understand and access them.<br>
+
+Interactive Elements<br>
+Interactive elements like hover effects and animations bring the website to life, making the browsing experience more enjoyable. These subtle touches reflect the attention to detail that I put into my projects.<br>
+
+Easy Navigation<br>
+The intuitive navigation ensures that you can easily find what you're looking for. Whether you want to check out my latest projects, read about my skills, or get in touch with me, everything is just a click away.<br>
+
+About Me Section<br>
+Learn more about who I am, what I do, and what drives me. The About Me section provides a personal touch, giving you insight into my background, interests, and goals.<br>
+
+Contact Information<br>
+The Contact section makes it easy to reach out to me. Whether you have a question about one of my projects, a collaboration idea, or just want to connect, you can find all the necessary information there.<br>
+
+Check It Out!<br>
+Feel free to explore the website and let me know what you think. I'm always open to feedback and suggestions to make it even better.</h3></p>
 To view a live example, **[click here](https://rbakshi66.github.io/website/)**
 <br>
 To view code, **[click here](https://github.com/rbakshi66/website)**
