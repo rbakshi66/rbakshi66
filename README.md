@@ -21,7 +21,7 @@ Designing my journey from the kitchen to the chimney.
   </a>
   </kbd>
 </p>
-<p><h3>I'm thrilled to share with you a brand new responsive website created by my talented friend Abhay Kumar. This website is designed to showcase my projects, skills, and experiences in a more engaging and visually appealing way.</h4></p>
+<p><h3>I'm thrilled to share with you a brand new responsive website created by my friend Abhay Kumar. This website is designed to showcase my projects, skills, and experiences in a more engaging and visually appealing way.</h4></p>
 <p><h4>Key Features:-<br><br>
 Responsive Design<br>
 The website is fully responsive, ensuring that it looks great on any device, whether you're browsing on a desktop, tablet, or smartphone. This adaptability means you can explore my work comfortably no matter where you are.<br>
